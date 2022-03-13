@@ -20,7 +20,7 @@ int main(){
     printf("Masukkan tahanan 3 : ");
     scanf("%f", &z);
 
-    if((x>0) & (y>0) & (z>0)){
+    if((x>0) && (y>0) && (z>0)){
         hasil = x + y + z;
         printf("Total tahanan adalah = %.2f", hasil);
     }
