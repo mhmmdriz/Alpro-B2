@@ -38,4 +38,5 @@ int main(){
             printf(" --%i\n", i);    /*Output Nomor Baris dan melakukan new line*/
         }
     }
+    return 0;
 }
